@@ -1,7 +1,7 @@
 
 import './App.css'
 import React from 'react';
-import CambiarFondo from '/components/CambiarFondo';
+import CambiarFondo from './components/CambiarFondo';
 import MostrarMensaje from './components/MostrarMensaje';
 import CapturarTexto from './components/CapturarTexto';
 import SeleccionarColor from './components/SeleccionarColor';
